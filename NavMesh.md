@@ -200,15 +200,6 @@ Utiliser le **Navigation Invoker Component** sur le joueur :
 | Grouper les PNJ                  | Un seul contrôleur pour plusieurs entités |
 | Ajuster le `Tile Size UU`        | Calcul plus rapide                        |
 
-### 4.4 Exercice final : NavMesh + IA réactive
-
-Créer une IA qui :
-
-1. Patrouille entre deux points
-2. Change de direction quand le joueur la bloque
-3. Contourne un obstacle dynamique
-
-Combiner `AI MoveTo` + `Dynamic Obstacle` + `NavModifierVolume`.
 
 ---
 
