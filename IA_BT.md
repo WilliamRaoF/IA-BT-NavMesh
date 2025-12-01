@@ -257,7 +257,3 @@ Créer un **Service Blueprint** (hérite de `BTService_BlueprintBase`) :
 
 ```
 
----
-
-Souhaitez-vous que je vous fasse aussi la **version Markdown du cours sur les Behaviour Trees dans Unreal Engine 5**, pour compléter la trilogie IA / NavMesh / Behaviour Tree ?
-```
